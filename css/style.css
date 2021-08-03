@@ -1,0 +1,16 @@
+html, body{
+    font-family: 'Roboto', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+
+}
+/* Bài tập 3 Js */
+.boxMoney{
+    border: solid 2px rgb(122, 181, 248);
+     
+}
